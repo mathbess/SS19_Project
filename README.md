@@ -6,3 +6,8 @@ Mathilde Besson
 Daphnée Lecours Tessier
 Timothée Poisot ?
 Andrew MacDonald ?
+
+
+## Figure 1
+
+*Imagine a figure of the poisot lab*
